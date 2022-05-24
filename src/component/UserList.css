@@ -1,0 +1,21 @@
+.btnLink{
+    position: absolute;
+    right: 0;
+    margin-right: 21.3%;
+    margin-top: 15px;
+}
+.btnLink button{
+    padding: 5px 25px;
+}
+.table-container {
+    /* background-color: brown;
+     */
+    padding: 60px 20px;
+    margin-right: 20%;
+}
+
+.table , th, td{
+    text-align: center;
+    border: 1px solid rgb(233, 233, 233);
+}
+
